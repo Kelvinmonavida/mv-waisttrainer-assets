@@ -1,0 +1,28 @@
+MV WAIST TRAINER — MAATTABEL (NL, cm + EU)
+============================================
+
+Originele Feelingirl chart was in inches + US-maten. Hieronder omgezet naar
+centimeters (1 inch = 2,54 cm) en Europese confectiematen.
+
+| Maat | EU       | Taille (cm) | Heup (cm)   |
+|------|----------|-------------|-------------|
+| XS   | 32 – 34  | 64 – 69     | 86 – 91     |
+| S    | 36 – 38  | 69 – 74     | 91 – 97     |
+| M    | 40 – 42  | 74 – 79     | 97 – 102    |
+| L    | 42 – 44  | 81 – 88     | 104 – 109   |
+| XL   | 46 – 48  | 90 – 97     | 110 – 117   |
+| XXL  | 48 – 50  | 99 – 107    | 118 – 125   |
+| 3XL  | 50 – 52  | 109 – 117   | 126 – 132   |
+
+Meet je taille om het smalste deel (rond de navel) en heup om het breedste
+deel onderaan. Twijfel je tussen twee maten? Pak de kleinere voor strakker
+shaping-effect, de grotere voor meer comfort.
+
+ORIGINELE BRON-DATA (US/inches):
+  XS  : US 0-2   | Waist 25-27"     | Hip 34-36"
+  S   : US 4-6   | Waist 27-29"     | Hip 36-38"
+  M   : US 8-10  | Waist 29-31"     | Hip 38-40"
+  L   : US 10-12 | Waist 32-34.5"   | Hip 41-43"
+  XL  : US 14-16 | Waist 35.5-38"   | Hip 43.5-46"
+  XXL : US 16-18 | Waist 39-42"     | Hip 46.5-49"
+  3XL : US 18-20 | Waist 43-46"     | Hip 49.5-52"
